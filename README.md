@@ -1,8 +1,16 @@
-# Group-26-CSC-EVE
-my Legacy app
+# my_legacy
 
-For so many reasons, a lot of mobile money accounts become deactivated over a certain period of time due to inactivity. And sometimes, these reasons of inactivity are beyond the control of the user or owner of the mobile money accounts.
+A new Flutter project.
 
-This could be death, or disability of the user. So in this unfortunate case, what happens to the users’ mobile money balance? To your cryptocurrency?
+## Getting Started
 
-Our application to provide solutions to this problem is what we are calling ‘MY LEGACY PROJECT’
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
